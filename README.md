@@ -18,7 +18,7 @@ A hack client base with toggle sprint and fullbright and fastplace and killaura 
 
 best used with this texture pack "https://minecraft-resourcepacks.com/download/war-v2-pvp/" or "https://www.mediafire.com/file/cqrly6ccby98cbd/%C2%A78%21+%C2%A73Scope+%C2%A7832x+%C2%A77Revamp.zip" (not made by me) because otherwise the text looks like shit.
 
-how to install it of u cant read "https://youtu.be/bXm605_0fag" otherwise --->
+how to install it if u cant read "https://youtu.be/bXm605_0fag" otherwise --->
 To use the client unzip this folder and drag the folder that says Oramac v.LT (not the one that says "Oramac-v.LT-main") then type "%appdata% into the windows search bar and got to ".minecraft" and then drag and drop that file into the versions folder.
 
 Current issues:
